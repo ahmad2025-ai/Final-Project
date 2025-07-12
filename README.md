@@ -110,7 +110,7 @@ Tailored recommendations for student engagement
 🧾 Credits
 Dataset: UCI Machine Learning Repository
 
-Tools: Tableau, Excel, Python (optional for preprocessing)
+Tools: Mysql, Tableau, Excel, Python (optional for preprocessing)
 
 Author: Ahmad khalil Ghamai
 

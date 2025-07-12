@@ -58,7 +58,7 @@ Support program effectiveness
 School comparisons (GP vs MS)
 
 🔗 Tableau Public Dashboard:
-[Insert your Tableau Public link here]
+https://public.tableau.com/authoring/TabalueAnalysisofstudent/Dashboard32#1
 
 🧠 Methodology
 Data Preparation
